@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Puff the magic dragon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "My blog & portfolio"
+  location         : "Republic of Korea"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/puffnjackie"
   gitlab           :
   google_plus      :
   keybase          :
