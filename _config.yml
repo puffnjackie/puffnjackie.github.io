@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "Puff the magic dragon"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Puff"
+description              : "My blog & portfolio"
 url                      : "https://puffnjackie.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
